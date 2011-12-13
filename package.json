@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "author":"Facebook",
   "main": "all",
+  
   "modulr": {"paths": ["./lib"]},
   "bolt_build_manifest" : {
     "package_target": "pkg",
